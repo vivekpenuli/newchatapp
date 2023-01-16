@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975175862481",
+    "project_id": "chatfinal-f36e5",
+    "storage_bucket": "chatfinal-f36e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975175862481:android:d7536b32da3e92ef0addf0",
+        "android_client_info": {
+          "package_name": "com.example.chatfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975175862481-rmom6jipa575bf4e15els24q2m2qj466.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbq1WnrNVibra1X5zBg0Of_MunqAnWD1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975175862481-rmom6jipa575bf4e15els24q2m2qj466.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
